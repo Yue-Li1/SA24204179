@@ -1,0 +1,17 @@
+Package: SA24204179
+Type: Package
+Title: Mean-variance Model and ADMM Algorithm
+Version: 1.0
+Date: 2024-12-02
+Author: SA24204179
+Maintainer: SA24204179 <3505792977@qq.com>
+Description: This package provides functions to calculate the mean-variance of a portfolio and solve the optimal portfolio allocation problem using linear programming. 
+License: GPL (>= 2)
+Imports: Rcpp
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+LinkingTo: Rcpp
+RoxygenNote: 7.3.2
+Encoding: UTF-8
+URL: http://github.com/Yue-Li1/SA24204179
+BugReports: http://github.com/Yue-Li1/SA24204179/issues
